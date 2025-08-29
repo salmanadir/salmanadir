@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact **I once said “just one more commit” … 3 hours later I was still coding**
 
+![Profile Views](https://komarev.com/ghpvc/?username=salmanadir&color=blue&style=flat-square)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salma-nadir-1780b926b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salma-nadir-1780b926b/" height="30" width="40" /></a>
